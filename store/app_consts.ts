@@ -1,0 +1,1 @@
+export const django_server_url = "https://borkar.sosdigital.in/api";
